@@ -1,6 +1,5 @@
 # README
 # Walking skeleton is down at the bottom.
-
 ## Project Overview
 
 This project is a web application that allows users to interact with various quiz topics, answer questions, and manage quiz-related content. It uses a layered architecture with a frontend for user interaction, a backend for handling requests, and a database for storing data. The application supports features like user registration, login, topic and question creation, and automated grading.
